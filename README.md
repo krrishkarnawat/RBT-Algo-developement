@@ -1,2 +1,2 @@
 # RBT-Algo-developement
-Writing code that correctly enforces and maintains an RBT's structure
+Code that correctly enforces and maintains an RBT's structure. Tester methods are also incluided for validation.
